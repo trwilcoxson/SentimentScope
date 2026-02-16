@@ -1,3 +1,3 @@
-# Purpose of this Folder
+# SentimentScope
 
-This folder contains the scaffolded project files to get a student started on their project. 
+This folder contains the project starter files for the SentimentScope sentiment analysis project.
